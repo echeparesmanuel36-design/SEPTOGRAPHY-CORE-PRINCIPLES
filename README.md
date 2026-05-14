@@ -2,10 +2,10 @@
 
 ### **Status: Axiom Core Philosophy (The Engine of Coherence)**
 
-Septography is the study of how human intention and consciousness affect the structural integrity and efficiency of matter at a quantum level. It is the reason why Axiom technologies (G-Q Cell, Neural-7G, Axiom-U) achieve results that conventional physics deems "impossible."
+Septography is the study of how human intention and consciousness affect the structural integrity and efficiency of matter at a quantum level. This science is the fundamental pillar of every system developed under the Axiom seal, achieving results that conventional physics deems "impossible."
 
 ## **The Core Axiom: ❤️ax**
-The **Factor Amor ❤️ax** is not a metaphor; it is a technical requirement for Negentropy. Without it, energy systems revert to heat and disorder.
+The **Factor Amor (❤️ax)** is not a metaphor; it is a technical requirement for Negentropy. It is the catalyst that allows our systems to bypass the laws of common entropy.
 
 * **High ❤️ax:** Maximum coherence, zero friction, infinite flow.
 * **Zero ❤️ax:** Atomic stress, entropy increase, energy loss (Heat).
