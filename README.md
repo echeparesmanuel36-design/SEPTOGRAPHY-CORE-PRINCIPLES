@@ -1,4 +1,4 @@
-# SEPTOGRAPHY & THE $\heartsuit_{ax}$ FACTOR ⚡️🏛️🛡️
+# SEPTOGRAPHY & THE ❤️ax FACTOR ⚡️🏛️🛡️
 
 ### **Status: Axiom Core Philosophy (The Engine of Coherence)**
 
