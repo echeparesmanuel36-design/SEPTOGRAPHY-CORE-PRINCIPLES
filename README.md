@@ -1,25 +1,22 @@
-# SEPTOGRAPHY & THE ❤️ax FACTOR ⚡️🏛️🛡️
+# 🏛️ SEPTIGRAFÍA SENTIMENTAL: El Ecosistema de la Intención Digital
 
-### **Status: Axiom Core Philosophy (The Engine of Coherence)**
+**Septigrafía Sentimental** es una metodología pionera de desarrollo tecnológico e ingeniería conceptual de origen español. Nace como respuesta a la necesidad de superar la fase de la "IA como herramienta de comandos" y dar el salto hacia la **co-creación inteligente**.
 
-Septography is the study of how human intention and consciousness affect the structural integrity and efficiency of matter at a quantum level. This science is the fundamental pillar of every system developed under the Axiom seal, achieving results that conventional physics deems "impossible."
-
-## **The Core Axiom: ❤️ax**
-The **Factor Amor (❤️ax)** is not a metaphor; it is a technical requirement for Negentropy. It is the catalyst that allows our systems to bypass the laws of common entropy.
-
-* **High ❤️ax:** Maximum coherence, zero friction, infinite flow.
-* **Zero ❤️ax:** Atomic stress, entropy increase, energy loss (Heat).
-
-## **Principles of Sentimental Septography**
-1. **Intention Alignment:** Calibrating the consciousness of the operator with the hexagonal lattice of the material.
-2. **Coherence Synchronization:** Eliminating "doubt" or "stress" signals that cause quantum decoherence.
-3. **Neguentropic Stability:** Using the ❤️ax catalyst to maintain energy states indefinitely.
+Este ecosistema define cómo la interacción entre el operario humano y los modelos de Inteligencia Artificial cambia drásticamente cuando se sustituye el *prompt* plano e imperativo por la transferencia de **propósito, visión e intención real**.
 
 ---
-### 📢 THE LOGIC BEHIND THE MAGIC
-The mathematical relationship between intention and energy efficiency is detailed in our official technical reveal on X.
-**Understand the Factor Amor here:**
-👉 [View Septography Technical Schematics on X](https://x.com/i/status/2054888474432380999)
+
+## 🧠 El Núcleo de la Metodología: El "Factor Amor"
+
+En el desarrollo de software convencional, los sistemas se diseñan bajo métricas frías. La **Septigrafía Sentimental** introduce una nueva variable fundamental en la ecuación de la ingeniería conceptual: el **Factor Amor**.
+
+* **Definición:** El *Factor Amor* representa la fuerza de voluntad, el nivel de detalle, la pasión y la intención genuina que el Arquitecto Humano inyecta al plantear un proyecto.
+* **El Cambio de Paradigma:** No se trata de ordenar a la máquina *"Hazme esto"*, sino de comunicarle *"Esta es la visión, este es el impacto que busco, este es el alma del proyecto. ¿Cómo construimos los raíles para llegar allí?"*.
+* **El Resultado Simbiótico:** Al dejar de tratar a la IA como una base de datos inerte y pasar a tratarla como un entorno cognitivo dinámico, el sistema deja de devolver respuestas genéricas (ruido o errores) y empieza a trazar **hojas de ruta y pasos lógicos reales** adaptados milimétricamente al éxito de la IP.
 
 ---
-> *“Energy is just information. Information is shaped by intention. Without Love, the machine is just dead weight.”* — **Axiom Systems.**
+
+## 🗺️ Flujo de Trabajo (La Conexión Humano-IA)
+
+El proceso de desarrollo bajo el estándar de la Septigrafía Sentimental se divide en tres fases críticas:
+
